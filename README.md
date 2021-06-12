@@ -8,7 +8,7 @@ I'm junior dev learning web development to achieve my goals.
 
  
 - I’m interested in be front-end programmer
-- I’m currently learning Vue, Nuxt, React, Redux, JS and TS
+- I’m currently learning Vue, Nuxt, JS and TS
 - I’m looking to collaborate in some enterprise and i'm looking to build a career 
 - You can contact me by email. Victorfjansen@outlook.com
 - If you want, tou can see my repositories!
