@@ -7,7 +7,7 @@ I'm dev learning web development to achieve my goals.
 <b> My Objectives: </b>
 
  
-- I apply in my day the ecossystem of reactJS and Angular2+ for frontEnd and for back the NestJS, AdônisJS. i Also have some projects with KoaJS/Strapi
+- I apply in my day the ecossystem of reactJS and Angular2+ for frontEnd and for back the NestJS. i Also have some projects with KoaJS/Strapi
 - You can contact me by email. Victorfjansen@gmail.com
 - If you want, tou can see my repositories!
 
