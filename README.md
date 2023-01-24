@@ -25,7 +25,10 @@ Currently giving emphasis on Low Level Code and creating exploits in C.
 I study and apply for about 6 years! 
 
 My resume: https://drive.google.com/file/d/1b1UjyUPNl32v0Ekw1GniY37yVeYox6ce/view
+
 My linkedin: https://www.linkedin.com/in/victorfjansen/
+
+My articles on Medium: https://medium.com/@victorfjansen
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=victorfjansen)
 
