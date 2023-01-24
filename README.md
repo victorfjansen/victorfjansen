@@ -4,17 +4,28 @@
 I'm dev learning web development to achieve my goals.
 
 
-<b> My Objectives: </b>
+<b> More about me: </b> 
 
- 
-- I apply in my day the ecossystem of reactJS and Angular2+ for frontEnd and for back the NestJS. i Also have some projects with KoaJS/Strapi
-- You can contact me by email. Victorfjansen@gmail.com
-- If you want, tou can see my repositories!
+Today I work with Angular 2+ and its ecosystem. SASS, CSS, CSS for animations, TS, JS, Akita, Nx manager, Pure Redux, PWA, RxJs, JEST, and many other tools.
 
-<b> More about me: </b>
+I also have knowledge of NestJS, working with BFFS, and monolithic systems, and I'm an enthusiast of microservices architecture. I have also done projects integrating with MongoDB and Mongoose.
+I've done some mobile projects with Flutter and I appreciate Dart.
 
-- I've 17 years.
-- I've some exprerience with freelance projects.
+In general, I study NodeJS applications and also study pure NodeJS. Currently, investigating how things works is my hobby. I know about internal structures in JS libraries and how it was built with pure NodeJS.
+
+I came from the ReactJS ecosystem and I'm prepared to work with too.
+
+I know the C language ecosystem and have already done several works with the language on behalf of the federal institute.
+I know computer architecture and have worked with Intel assembly.
+
+I know and used some tools like Nmap, Metasploit, msfvenom, veil, thefatrat.
+
+Currently giving emphasis on Low Level Code and creating exploits in C.
+
+I study and apply for about 6 years! 
+
+My resume: https://drive.google.com/file/d/1b1UjyUPNl32v0Ekw1GniY37yVeYox6ce/view
+My linkedin: https://www.linkedin.com/in/victorfjansen/
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=victorfjansen)
 
